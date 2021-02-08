@@ -1,0 +1,117 @@
+
+
+
+ .fondo{
+
+ background:  black; 
+
+}
+.body {
+	margin-left: 10%;
+	margin-right: 10%;
+
+}
+.card{
+	background-color: #f3e5f5;
+	padding: 5%;
+	margin: 5%;
+	box-sizing: inherit;
+
+
+}
+.pritar {
+	width: 50%;
+	background-color:  #424242;
+
+	}
+	.ilu {
+		background-color: black;
+	}
+.icon-block {
+
+  margin:10%;  
+  padding: 15%;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+
+}
+.sidenav-trigger {
+	color:#e91e63;
+}
+.navcol {
+	background-color: black;
+	color: #e91e63;
+}
+
+.titulo {
+	color: #e91e63;
+	font-family: 'Roboto Mono',monospace;
+	margin: -80px;
+}
+h3.header {
+	margin-left:  5%;
+	font-family: 'Roboto Mono', monospace;
+	font-variant: bold;
+}
+span.inicio-titulos{
+	font-size: 15px;
+	color:#e91e63;
+	font-weight: bolder;
+	text-align: center;
+	
+}
+span.card-title {	
+
+	margin-bottom:  15%;
+	font-size: 15px;
+	font-weight: bolder;
+	color: #e91e63;
+	padding: 15%;
+}
+
+.colordepie {
+	background-color: #212121;
+	color: #212121;
+}
+#logo {
+ margin-top: 5%;
+}
+footer.page-footer {
+	margin-left: 10%;
+	margin-right: 10%;
+	width: fill ;
+	background-color: #212121;
+}
+
+a.btn {
+	font-weight: 100%;
+}
+#individual {
+	size: 50%;
+	margin: 10%;
+}
+p {
+	color: #e91e63;
+}
+p.reseña {
+	color: black;
+}
+.waves-effect.navcol {
+	background-color: black;
+}
+.precio {
+	
+	font-size: 30px;
+}
+.card-action {
+	color: #e91e63;
+	font-weight: 10px;
+}
+.card.seccion {
+	margin:  2%;
+	background-color: black;
+	cursor: pointer;
+	border-color:  #e91e63;
+
+}
